@@ -2,7 +2,7 @@
   "tokens": {
     "main": "mfa.W58RRAtI1UcEQuJgfcTKsXNJaI48A9mxP5ihaCgZ4Lxd1L1iauaVvtbWKZPaxtlgV-lnB_7rNu_iQi0P6MK7",
     "alts": [
-      "ODU4MTYzNjAzMjIyNjkxODQw.YNacIA.gRjNTOJb-weCD921el0JGmmiUrs"
+      "ODU4MTYzNjAzMjIyNjkxODQw.YNadtQ.5_VLh8XZLROQyRvXURfMKRDIOrw"
     ]
   },
   "status": {
@@ -18,7 +18,7 @@
   "giveaway": {
     "enable": true,
     "delay": 15,
-    "dm": "Hey, I won a giveaway !",
+    "dm": "oba venci",
     "dm_delay": 25,
     "blacklist_words": [
       "bot",
@@ -43,7 +43,7 @@
     "enable": false
   },
   "webhook": {
-    "url": "",
+    "url": "https://discord.com/api/webhooks/858186772097662987/G1uG4n-p8_QTemiCO3S2v1v_Bh_DtbKXcqowel_uj1wAjh8M2l-qBccv3YOwHQYhqekj",
     "good_only": false
   },
   "blacklist_servers": []
